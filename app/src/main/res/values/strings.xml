@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Tour Guide</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_search">Search</string>
+    <string name="title_favourites">Favourites</string>
+    <string name="title_account">Me</string>
+    <string name="title_create">New Itinerary</string>
 </resources>
