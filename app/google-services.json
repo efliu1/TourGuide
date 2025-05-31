@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "956244028097",
+    "project_id": "tour-guide-461420",
+    "storage_bucket": "tour-guide-461420.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956244028097:android:1644040afab6ea5e730240",
+        "android_client_info": {
+          "package_name": "ca.tourguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956244028097-f4j08r827fn30502jrv5qoka1ie975e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.tourguide",
+            "certificate_hash": "43f27aca6170c1c433ba2c65b673f4afc8a6cc33"
+          }
+        },
+        {
+          "client_id": "956244028097-vk11kjevtkpgc6qo55qbdn82s73ika61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfiiyfuaxm5q7ucbS2ib99s7FBl_2w9_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956244028097-hnu9o47ureh6mta1adh8gdm1g64j7jff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
