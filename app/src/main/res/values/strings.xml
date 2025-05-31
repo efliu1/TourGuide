@@ -5,4 +5,6 @@
     <string name="title_favourites">Favourites</string>
     <string name="title_account">Me</string>
     <string name="title_create">New Itinerary</string>
+    <string name="sign_out">Sign out</string>
+    <string name="google_sign_in_msg">Sign in with Google</string>
 </resources>
