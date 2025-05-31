@@ -59,7 +59,7 @@ android {
 
 dependencies {
     implementation(libs.play.services.auth)
-    implementation("com.google.firebase:firebase-bom:33.14.0")
+    implementation(platform(libs.firebase.bom))
     implementation(libs.coil)
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
